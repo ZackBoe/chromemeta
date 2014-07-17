@@ -1,0 +1,10 @@
+.popup {
+    width: 200px;
+    padding-right: 23px;
+}
+ul { padding: 0; list-style-type: none; }
+a.btn.btn--full { display: none; }
+
+.about { margin: 0 auto 0 40px; max-width: 150px;}
+.about li { display: inline; }
+.about a { font-size: 11px;  }
