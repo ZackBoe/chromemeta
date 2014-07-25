@@ -1,9 +1,9 @@
 {
-  "name": "ChromeMeta",
-  "version": "1",
+  "name": "MetaCopy",
+  "version": "1.2",
   "manifest_version": 2,
   "description": "Easily copy meta tags with one click",
-  "homepage_url": "https://zackboehm.com",
+  "homepage_url": "https://github.com/zackboe/chromemeta",
   "icons": {
     "16": "icons/icon16.png",
     "19": "icons/icon19.png",
@@ -13,7 +13,7 @@
   "default_locale": "en",
   "browser_action": {
     "default_icon": "icons/icon19.png",
-    "default_title": "ChromeMeta",
+    "default_title": "MetaCopy",
     "default_popup": "src/browser_action.html"
   },
   "permissions": [

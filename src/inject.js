@@ -1,4 +1,4 @@
-console.log("%c ChromeMeta background script injected.", "color: blue;"); 
+console.log("%c MetaCopy background script injected.", "color: blue;"); 
 
 meta = document.getElementsByTagName('meta');
 
